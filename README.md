@@ -1,4 +1,4 @@
-<img src="https://github.com/saadii5074/Assignment1/blob/main/image_processing20201130-21944-1yy5ax8.gif?raw=true" height="400" width="1200">
+<img src="https://github.com/saadii5074/Assignment1/blob/main/image_processing20201130-21944-1yy5ax8.gif?raw=true" height="300" width="1200">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
