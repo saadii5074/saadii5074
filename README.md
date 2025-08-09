@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/7069bc05-5028-4230-9bca-2d98205a2ff7" width="1200" height="400" alt="Profile Image">
+<img src="https://github.com/user-attachments/assets/7069bc05-5028-4230-9bca-2d98205a2ff7" width="1200" height="300" alt="Profile Image">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
