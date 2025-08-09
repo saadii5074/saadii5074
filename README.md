@@ -40,3 +40,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Saadii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Saadii" /></a><a href="https://ko-fi.com/Saadii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Saadii" /></a></p><br><br>
+<img width="791" height="420" alt="Screenshot 2025-08-09 104647" src="https://github.com/user-attachments/assets/e63d578a-c71e-4131-a651-004e913dd8cf" />
+<img width="817" height="473" alt="Screenshot 2025-08-09 104753" src="https://github.com/user-attachments/assets/c2793672-87d4-448f-b943-64c8b251a1f7" />
+
+
+
