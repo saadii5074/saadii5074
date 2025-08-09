@@ -1,10 +1,9 @@
-<img src="https://github.com/saadii5074/Assignment1/blob/main/image_processing20201130-21944-1yy5ax8.gif?raw=true" height="300" width="1200">
 
-
-
+<img src="https://github.com/user-attachments/assets/7069bc05-5028-4230-9bca-2d98205a2ff7" width="1200" height="400" alt="Profile Image">
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
+
 
 
 
