@@ -96,9 +96,11 @@
 <img width="400" height="400" alt="Screenshot 2025-08-10 061140" src="https://github.com/user-attachments/assets/ff3b4cfb-e21c-4d0c-bcd4-76d6c8bb3e96" />
 
 
+<h1 align="center"></h1>
+<h1 align="center">Image Classification Using Pre-trained Models</h1>
 
 
-
+<img width="800" height="600" alt="Screenshot 2025-08-10 070955" src="https://github.com/user-attachments/assets/a73b368c-3cab-4d60-9155-ad8e95e30e34" />
 
 
 
