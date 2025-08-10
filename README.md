@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">A Data scientist | AI/Ml Engineer</h3>
+<h3 align="center">Data Scientist | AI/Ml Engineer</h3>
 <h1 align="center"></h1>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
@@ -74,3 +74,19 @@
 <img width="999" height="400" alt="Screenshot 2025-08-09 113422" src="https://github.com/user-attachments/assets/1cc0ed39-326e-4cbb-ae00-0de54f32150f" />
 <img width="999" height="400" alt="Screenshot 2025-08-09 113435" src="https://github.com/user-attachments/assets/e617a667-e328-4df8-b712-2b2d85913b4f" />
 <img width="999" height="400" alt="Screenshot 2025-08-09 113348" src="https://github.com/user-attachments/assets/0b1bbeea-5894-429e-850b-1ce1510805a4" />
+
+<h1 align="center"></h1>
+<h1 align="center">Sentiment Analysis of Movie Reviews</h1>
+
+
+
+<img width="400" height="400" alt="Screenshot 2025-08-10 042518" src="https://github.com/user-attachments/assets/af7746b2-436d-4504-9126-ee9adcc4ee11" />
+<img width="400" height="400" alt="Screenshot 2025-08-10 042533" src="https://github.com/user-attachments/assets/7d7fe209-9d18-4757-ba47-6b8af9b5d935" />
+
+
+
+
+
+
+
+
