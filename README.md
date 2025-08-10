@@ -84,6 +84,30 @@
 <img width="400" height="400" alt="Screenshot 2025-08-10 042533" src="https://github.com/user-attachments/assets/7d7fe209-9d18-4757-ba47-6b8af9b5d935" />
 
 
+<h1 align="center"></h1>
+<h1 align="center">Simple Neural Network to Classify Handwritten Digits</h1>
+
+
+
+
+
+
+<img width="400" height="400" alt="Screenshot 2025-08-10 055714" src="https://github.com/user-attachments/assets/b27fce18-99fa-43e0-909e-dd737bcf9320" />
+<img width="400" height="400" alt="Screenshot 2025-08-10 061140" src="https://github.com/user-attachments/assets/ff3b4cfb-e21c-4d0c-bcd4-76d6c8bb3e96" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
