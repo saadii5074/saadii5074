@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">Data Scientist | AI/Ml Engineer</h3>
+<h3 align="center">AI/Ml Engineer</h3>
 <h1 align="center"></h1>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
@@ -36,7 +36,7 @@
 
 💬 Ask me about supervised unsupervised outfitters
 
-📫 How to reach me https://www.linkedin.com/in/muhammad-saad-a38b63376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📫 How to reach mehttps://www.linkedin.com/in/muhammad-saad-a38b63376
 
 📄 Know about my experiences [file:///C:/Users/isaad/Downloads/saad%20(1).pdf](file:///C:/Users/isaad/Downloads/saad%20(1).pdf)
 
@@ -45,7 +45,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/muhammad saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad saad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad saad" target="blank"><img align="center" src="https://www.linkedin.com/in/muhammad-saad-a38b63376/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad saad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
